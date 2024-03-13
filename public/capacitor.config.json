@@ -1,0 +1,12 @@
+{
+    "appId": "io.ionic.hsgarage",
+    "appName": "HS GARAGE",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {},
+    "server": {
+      "url": "https://c194-111-92-75-246.in.ngrok.io/garage/src/API/",
+      "cleartext": true
+    }
+  }
